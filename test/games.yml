@@ -1,0 +1,17 @@
+Game(game1):
+    name:               Starcraft
+
+Game(game2):
+    name:               Warcraft
+
+GameOption(option11):
+    game:               game1
+    description:        first
+
+GameOption(option12):
+    game:               game1
+    description:        second
+
+GameOption(option21):
+    game:               game2
+    description:        third

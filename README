@@ -1,0 +1,4 @@
+run "play test"
+goto http://localhost:9000/@tests
+and run ApplicationTest functional test
+it works with 1.1.1 but fails with 1.2RC1
